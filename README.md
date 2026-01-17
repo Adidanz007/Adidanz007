@@ -1,5 +1,9 @@
 # 💫 About Me:
-Currently working on Machine Learning Regression Model mini Project Using Pytorch.<br>
+💻 Working on ML mini-projects using PyTorch (Regression models)
+🌱 Learning PyTorch, ML fundamentals & data preprocessing
+🤝 Open to collaborating on beginner-friendly AI/ML projects
+🧠 Looking for guidance on model optimization & AI career path
+⚡ Fun fact: I prefer learning by building real projects.<br>
 
 
 ## 🌐 Socials:
