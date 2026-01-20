@@ -1,9 +1,9 @@
 # 💫 About Me:
-💻 Working on ML mini-projects using PyTorch (Regression models)
-🌱 Learning PyTorch, ML fundamentals & data preprocessing
-🤝 Open to collaborating on beginner-friendly AI/ML projects
-🧠 Looking for guidance on model optimization & AI career path
-⚡ Fun fact: I prefer learning by building real projects.<br>
+<center>💻 Working on ML mini-projects using PyTorch (Regression models)</center><br>
+<center>🌱 Learning PyTorch, ML fundamentals & data preprocessing</center><br>
+<center>🤝 Open to collaborating on beginner-friendly AI/ML projects</center><br>
+<center>🧠 Looking for guidance on model optimization & AI career path</center><br>
+<center>⚡ Fun fact: I prefer learning by building real projects.</center><br><br>
 
 
 ## 🌐 Socials:
